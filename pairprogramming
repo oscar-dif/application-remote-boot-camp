@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Pair programming</title>
+  </head>
+  <style>
+    body {background-color: lightblue;}
+  </style>
+    <h1 style="color: black;">Pair programming</h1>
+
+  <div style="color: black; font-size: 20px;">
+    <p>
+      Pair programming is a technique where two programmers work together at the same work station.<br>
+      It is an agile method which consists of an author and an observer.
+      The author writes the code and the observer checks the code for errors.<br>
+    </p>
+    <p>
+      During the progress, the observer will not just check the code for errors but also do a continuous strategic evaluation of the work.<br>
+      In that way the team can avoid future obstacles.<br>
+    </p>
+    <p>
+      Although the method is well used, it is not without risks.<br>
+      It is important that the roles are clear and that the level of competence and engagement are close to each other.<br>
+      Otherwise it might affect both the team work and the result.
+    </p>
+    <p>
+      <h2 style="color: black; font-size: 22px;">References</h2>
+      <a href="url">https://sv.wikipedia.org/wiki/Parprogrammering</a><br>
+      <a href="url">https://www.csc.kth.se/tcs/projects/cerise/parprogrammering/</a><br>
+      <a href="url">https://www.csc.kth.se/tcs/projects/cerise/parprogrammering/riktlinjer.html</a><br>
+  </div>
+  </body>
+</html>
